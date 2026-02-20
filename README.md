@@ -3,7 +3,7 @@
 ## 📌 Overview
 This project analyzes employee attrition to identify key drivers of turnover and provide actionable insights for improving retention.
 
-Using HR data, I explored patterns in employee tenure, job roles, and overtime status to understand where and why attrition is highest.
+Using HR data, I analyzed patterns in employee tenure, job roles, and overtime to identify where and why attrition is highest.
 
 ---
 
