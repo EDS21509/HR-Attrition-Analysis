@@ -43,9 +43,7 @@ HR Employee Attrition dataset including employee demographics, job role, tenure,
 ---
 
 ## 📈 Dashboard
-<img width="1703" height="827" alt="visualization" src="https://github.com/user-attachments/assets/f7c22854-976a-4954-a9a2-b5fbc43565ad" />
-
-
+![HR Attrition Dashboard](visualization.png) 
 ---
 
 ## 🧠 Business Impact
