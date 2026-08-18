@@ -1,4 +1,4 @@
-<img width="770" height="449" alt="visualization" src="https://github.com/user-attachments/assets/33fcf3ea-bbd1-445a-9405-22c37a3e817a" />
+
 # 📊 Employee Attrition Analysis
 
 ## 📌 Overview
@@ -44,7 +44,7 @@ HR Employee Attrition dataset including employee demographics, job role, tenure,
 ---
 
 ## 📈 Dashboard
-![HR Attrition Dashboard](visualization.png) 
+<img width="770" height="449" alt="visualization" src="https://github.com/user-attachments/assets/33fcf3ea-bbd1-445a-9405-22c37a3e817a" />
 ---
 
 ## 🧠 Business Impact
